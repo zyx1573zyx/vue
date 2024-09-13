@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h3>老陈NB</h3>
-        <h3>2402NB^2</h3>
+        <h3>星哥nb</h3>
+        <h3>20240818</h3>
     </div>
 </template>
 
