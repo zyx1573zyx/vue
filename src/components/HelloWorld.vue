@@ -1,6 +1,7 @@
 <template>
     <div>
         <h3>老陈NB</h3>
+        <h3>2402NB^2</h3>
     </div>
 </template>
 
